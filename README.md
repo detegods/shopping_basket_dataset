@@ -8,5 +8,7 @@ The dataset csv file contains the following fields:
   * Date: the date on which a product was sold
   * City: the city which a product was sold (anonymized)
 
+
 When using the dataset please cite:
+
 M. Wölbitsch, S. Walk, M. Goller, and D. Helic (2019) **Beggars Can’t Be Choosers: Augmenting Sparse Data for Embedding-Based Product Recommendations in Retail Stores**. *In Proceedings of ACM Conference on User Modeling, Adaptation and Personalization (UMAP’19)*
