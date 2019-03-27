@@ -11,4 +11,4 @@ The dataset csv file contains the following fields:
 
 When using the dataset please cite:
 
-M. Wölbitsch, S. Walk, M. Goller, and D. Helic (2019) **Beggars Can’t Be Choosers: Augmenting Sparse Data for Embedding-Based Product Recommendations in Retail Stores**. *In Proceedings of ACM Conference on User Modeling, Adaptation and Personalization (UMAP’19)*
+M. Wölbitsch, S. Walk, M. Goller, and D. Helic (2019) **Beggars Can’t Be Choosers: Augmenting Sparse Data for Embedding-Based Product Recommendations in Retail Stores**. *In Proceedings of 27th ACM International Conference on User Modelling, Adaptation and Personalization (UMAP’19)*
